@@ -12,7 +12,7 @@
   Aprendi sobre metodologias ágeis trabalhando em projetos práticos,focando na implementação do backend e
    na integração com o frontend.
 -  **Desafios Enfrentados**: Integração de APIs externas mas com as mentorias e  ferramentas certas conclui as implementações.
--  Certificado de Conclusão do Programa TrendsIT e  Certificação em Metodologias Ágeis.
+-  **Certificado**: Conclusão do Programa TrendsIT e  Certificação em Metodologias Ágeis.
    
   🌱 Estou aprendendo
 -  **Linguagen**: Java
