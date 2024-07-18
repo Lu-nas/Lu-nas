@@ -5,7 +5,7 @@
  Busco uma oportunidade para aplicar meus conhecimentos em python e java  e contribuir para projetos inovadores.
  - ⚡ Fun facts: Gosto aprender novas linguagens de programação.
  Sou atraida por jogos, especialmente os que promovem a criatividade e a resolução de problemas;
- Busco sempre de maneiras e formas de melhorar minhas habilidades de desenvolvimento e colaborar com outros.
+ Busco sempre maneiras e formas de melhorar minhas habilidades de desenvolvimento e colaborar com outros.
 
 - ### **TrendsIT**
   Aprendi sobre metodologias ágeis e trabalhando em projetos práticos,focando na implementação do backend e
