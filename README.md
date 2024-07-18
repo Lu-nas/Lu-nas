@@ -3,14 +3,14 @@
  participei do programa TrendsIT, onde aprendi sobre desenvolvimento ágil e trabalhei em projetos colaborativos.
  Estou participando do bootcamp da Generation Brasil para me tornar uma desenvolvedora Junior Full Stack.
  Busco uma oportunidade para aplicar meus conhecimentos em python e java  e contribuir para projetos inovadores.
- - ⚡ Fun facts: Gosto aprender novas linguagens de programação.
+ - ⚡ Fun facts: Gosto de aprender novas linguagens de programação.
  Sou atraida por jogos, especialmente os que promovem a criatividade e a resolução de problemas;
  Busco sempre maneiras e formas de melhorar minhas habilidades de desenvolvimento e colaborar com outros.
 
 - ### **TrendsIT**
-  Aprendi sobre metodologias ágeis e trabalhando em projetos práticos,focando na implementação do backend e
+  Aprendi sobre metodologias ágeis trabalhando em projetos práticos,focando na implementação do backend e
    na integração com o frontend.
--  **Desafios Enfrentados**: Integração de APIs externas
+-  **Desafios Enfrentados**: Integração de APIs externas mas com as mentorias e  ferramentas certas conclui as implementações.
 -  Certificado de Conclusão do Programa TrendsIT e  Certificação em Metodologias Ágeis.
    
 - 🌱 I’m currently learning ...
@@ -21,7 +21,7 @@
 - ## 🌱 Projetos  mais Recentes
 
 - ### 2. personal_Blog 😄
-- **Descriçãp**: uma plataforma intuitiva que permite aos usuários compartilhar suas experiências
+- **Descriçãp**: uma plataforma intuitiva que permite aos usuários compartilhar suas experiências,
  através de posts personalizados de forma interativa.
 
 - ### 2. Teck_Gamer 🎮
@@ -31,7 +31,8 @@
 - 💞️ I’m looking to collaborate nos projetos 
 -  ### 1. Econectar 🌍 🤝 @DunkArt08, @eduardowada, @Paola Victória, @EdiporTorres.
 - **Descrição**: Projeto que visa promover conecção entre pessoas e serviços alem de uma economia sustentável.
-- **Tecnologias**: Java, Spring Boot, MySQL.
+- **Tecnologias**: Java, Spring Boot, MySQL,
+- **frontend**: HTML,CSS3.
 
 - ### 2. JcDias Atelier 🤝 @HenriquedSS1912
 - **Descrição**:  é um espaço criativo dedicado à arte e design, onde a beleza e a inovação se encontram para transformar
