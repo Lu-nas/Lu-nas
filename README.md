@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lu-nas / luana
+- 👋 Hi, I’m  luana
 - 👀 I’m desenvolvedora de software em formação, Python e Java. uma profissional em transição de carreira para Programação
  participei do programa TrendsIT, onde aprendi sobre desenvolvimento ágil e trabalhei em projetos colaborativos.
  Estou participando do bootcamp da Generation Brasil para me tornar uma desenvolvedora Junior Full Stack.
