@@ -9,11 +9,12 @@
  Busco sempre maneiras e formas de melhorar minhas habilidades de desenvolvimento e colaborar com outros.
 
  ### **TrendsIT**
-  Aprendi sobre metodologias ágeis trabalhando em projetos práticos,focando na implementação do backend e
+  Aprendi sobre metodologias ágeis trabalhando em projetos práticos, focando na implementação do backend e
    na integração com o frontend.
--  **Desafios Enfrentados**: Integração de APIs externas mas com as mentorias e  ferramentas certas conclui as implementações.
+-  **Desafios Enfrentados**: Integração de APIs externas mas com as ferramentas certas conclui as implementações.
 -  **Certificado**: Conclusão do Programa TrendsIT e  Certificação em Metodologias Ágeis.
-   
+
+ ### **Bootcamp Generation Brasil**
   🌱 Estou aprendendo
 -  **Linguagen**: Java
 - **Frameworks**: Spring Boot
