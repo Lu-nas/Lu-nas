@@ -10,7 +10,7 @@
  ### **TrendsIT**
   Aprendi sobre metodologias ágeis trabalhando em projetos práticos, focando na implementação do backend e
    na integração com o frontend.
--  **Desafios Enfrentados**: Integração de APIs externas mas com as ferramentas certas conclui as implementações.
+-  **Desafios Enfrentados**: Integrar e implementar APIs externas .
 -  **Certificado**: Conclusão do Programa TrendsIT e  Certificação em Metodologias Ágeis.
 
  ### **Bootcamp Generation Brasil**
