@@ -1,12 +1,11 @@
  👋 Oi, Sou  Luana Silva
   
  👀  Desenvolvedora de software em formação, Python e Java. uma profissional em transição de carreira para Programação
- participei do programa TrendsIT, onde aprendi sobre desenvolvimento ágil e trabalhei em projetos colaborativos.
+ participei do programa TrendsIT, onde aprendi sobre desenvolvimento ágil e trabalhei em projetos reais e colaborativos.
  Estou participando do bootcamp da Generation Brasil para me tornar uma desenvolvedora Junior Full Stack.
- Busco uma oportunidade para aplicar meus conhecimentos em python e java  e contribuir para projetos inovadores. 
- ⚡Gosto de aprender novas linguagens de programação.
- Sou atraida por jogos, especialmente os que promovem a criatividade e a resolução de problemas;
- Busco sempre maneiras e formas de melhorar minhas habilidades de desenvolvimento e colaborar com outros.
+ Busco uma oportunidade para aplicar meus conhecimentos e contribuir para projetos inovadores. 
+ ⚡Gosto de aprender coisas novas e me aventurar em viagens.
+ 
 
  ### **TrendsIT**
   Aprendi sobre metodologias ágeis trabalhando em projetos práticos, focando na implementação do backend e
