@@ -2,9 +2,9 @@
   
  👀  Desenvolvedora de software em formação, Python e Java. uma profissional em transição de carreira para Programação
  participei do programa TrendsIT, onde aprendi sobre desenvolvimento ágil e trabalhei em projetos reais e colaborativos.
- Estou participando do bootcamp da Generation Brasil para me tornar uma desenvolvedora Junior Full Stack.
+ Realizei o bootcamp da Generation Brasil para me tornar uma melhor desenvolvedora Junior Full Stack.
  Busco uma oportunidade para aplicar meus conhecimentos e contribuir para projetos inovadores. 
- ⚡Gosto de aprender coisas novas e me aventurar em viagens.
+ ⚡Gosto de aprender coisas novas de me aventurar e curto viagem.
  
 
  ### **TrendsIT**
@@ -14,18 +14,18 @@
 -  **Certificado**: Conclusão do Programa TrendsIT e  Certificação em Metodologias Ágeis.
 
  ### **Bootcamp Generation Brasil**
-  🌱 Estou aprendendo
+  🌱 familiarizei com
 -  **Linguagen**: Java
 - **Frameworks**: Spring Boot
 - **Banco de Dados**: MySQL
 - **Ferramentas**: Git, GitHub, Jira,
  ## 🌱 Projetos  mais Recentes
 
- ### 2. [personal_Blog](https://github.com/Lu-nas/Personal_Blog) 😄
+ ###  [personal_Blog](https://github.com/Lu-nas/Personal_Blog) 😄
  **Descriçãp**: uma plataforma intuitiva que permite aos usuários compartilhar
  suas experiências,através de posts personalizados de forma interativa.
 
- ### 2. [Teck_Gamer](https://github.com/Lu-nas/ProjetoLoja_teckGamer) 🎮
+ ###  [Teck_Gamer](https://github.com/Lu-nas/ProjetoLoja_teckGamer) 🎮
 - **Descrição**: Loja_ficticia de games não violentos para crianças.
 - **Tecnologias**: Java, Spring Boot, MySQL.
   
