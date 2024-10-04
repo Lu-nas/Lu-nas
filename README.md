@@ -4,7 +4,7 @@
  participei do programa TrendsIT, onde aprendi sobre desenvolvimento ágil e trabalhei em projetos reais e colaborativos.
  Realizei o bootcamp da Generation Brasil para me tornar uma melhor desenvolvedora Junior Full Stack.
  Busco uma oportunidade para aplicar meus conhecimentos e contribuir para projetos inovadores. 
- ⚡Gosto de aprender coisas novas de me aventurar e curto viagem.
+ ⚡Gosto de aprender coisas novas de me aventurar e curto viajar.
  
 
  ### **TrendsIT**
