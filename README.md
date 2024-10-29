@@ -24,11 +24,11 @@
  ### [E-Conectar](https://github.com/EconectarGen]) 
  **Objetivo**: Cidedes sustentaveis do E-Conectar; É um sistema de e-commerce urbano que conecta
  prestadores de serviços a solicitantes, incentivando a economia sustentável e o desenvolvimento
- urbano responsável.
+ urbano responsável. (Projeto Em Produção)
 
  ###  [personal_Blog](https://github.com/Lu-nas/Personal_Blog) 😄
  **Objetivo**: plataforma seja intuitiva permitindo aos usuários, compartilhar
- suas experiências através de posts personalizados de forma interativa e criativa.
+ suas experiências através de posts personalizados de forma interativa e criativa. (PARA MELHORIAS)
 
  ###  [Teck_Gamer](https://github.com/Lu-nas/ProjetoLoja_teckGamer) 🎮
 - **Descrição**: Loja_ficticia de games não violentos para crianças.
@@ -40,7 +40,7 @@
 - **Tecnologias**: Java, Spring Boot, MySQL,
 - **frontend**: HTML,CSS3.
 
- ### 2. JcDias Atelier 🤝 @HenriquedSS1912
+ ### 2. JcDias Atelier 🤝 @HenriquedSS1912 ( Em Produção)
 - **Descrição**:  é uma LP voltada à cofecção e conserto de roupas moda praia plus size e fitness,
  para transformar ideias em peças únicas e personalizadas.
  **Tecnologias**: HTML/CSS/JavaScript,
