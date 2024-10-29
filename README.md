@@ -20,10 +20,15 @@
 - **Banco de Dados**: MySQL
 - **Ferramentas**: Git, GitHub, Jira,
  ## 🌱 Projetos  mais Recentes
+ 
+ ### [E-Conectar](https://github.com/EconectarGen]) 
+ **Objetivo**: Cidedes sustentaveis do E-Conectar; É um sistema de e-commerce urbano que conecta
+ prestadores de serviços a solicitantes, incentivando a economia sustentável e o desenvolvimento
+ urbano responsável.
 
  ###  [personal_Blog](https://github.com/Lu-nas/Personal_Blog) 😄
- **Descriçãp**: uma plataforma intuitiva que permite aos usuários compartilhar
- suas experiências,através de posts personalizados de forma interativa.
+ **Objetivo**: plataforma seja intuitiva permitindo aos usuários, compartilhar
+ suas experiências através de posts personalizados de forma interativa e criativa.
 
  ###  [Teck_Gamer](https://github.com/Lu-nas/ProjetoLoja_teckGamer) 🎮
 - **Descrição**: Loja_ficticia de games não violentos para crianças.
@@ -31,7 +36,7 @@
   
 - ## 💞️ colaboro nos projetos 
  ### 1. Econectar 🌍 🤝 @DunkArt08, @eduardowada, @Paola Victória, @EdiporTorres.
-- **Descrição**: Projeto que visa promover conecção entre pessoas e serviços alem de uma economia sustentável.
+- **Descrição**: Projeto gera conecção entre pessoas e serviços além de uma economia sustentável.
 - **Tecnologias**: Java, Spring Boot, MySQL,
 - **frontend**: HTML,CSS3.
 
