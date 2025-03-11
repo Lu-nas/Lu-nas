@@ -3,28 +3,30 @@
 💻 Desenvolvedora de Software em Formação | Java | Python | Full Stack
 Atualmente em transição de carreira para a área de Tecnologia, sou uma profissional dedicada 
 e apaixonada por resolver problemas através da programação.
-  
- 🎯 Participei do programa TrendsIT, onde aprendi sobre desenvolvimento ágil, colaboração em equipe e trabalhei em projetos reais.
-  
+
+🎓 Estou no inicio da graduação em Engenharia de Software pela Cruzeiro do Sul Virtual, ampliando minha base teórica e prática em 
+  tecnologia para aprofundar meus conhecimentos e expandir minhas habilidades técnicas.
+
  📚 Concluí o bootcamp da Generation Brasil no último ano, onde aprimorei minhas habilidades como Desenvolvedora Full Stack Java, 
   adquirindo experiência com Spring Boot, React, MySQL e metodologias ágeis.
   
-🎓 Em 2024, iniciarei a graduação em Engenharia de Software pela Cruzeiro do Sul Virtual, ampliando minha base teórica e prática em 
-  tecnologia para aprofundar meus conhecimentos e expandir minhas habilidades técnicas.
-
+🎯 Participei do programa TrendsIT, onde aprendi sobre desenvolvimento ágil, colaboração em equipe e trabalhei em projetos reais.
+  
 🚀 Busco uma oportunidade para aplicar meus conhecimentos, crescer profissionalmente e contribuir para projetos inovadores.
 
-⚡ Sou movida pela vontade de aprender, enfrentar desafios e me aventurar em diferentes áreas da tecnologia. Meu objetivo é, no futuro, 
+⚡ Sou movida pela vontade de aprender, enfrentar desafios e me aventurar em diferentes áreas da tecnologia. Meu objetivo é,
   atuar no setor de fintech, unindo programação e inovação para impactar positivamente o mundo.
 
   
 ## Experiência e Conquistas
 
  ### **Gestão por Processos- Cruzeiro do Sul Virtual**
-Concluí com sucesso o curso de Gestão por Processos na Cruzeiro do Sul Virtual, onde adquiri conhecimentos sólidos sobre análise, otimização e gestão de processos empresariais. Este curso me proporcionou uma visão estratégica e integrada dos processos organizacionais, habilidades que complementam minha formação técnica e são essenciais para o desenvolvimento de soluções eficientes no setor de tecnologia.
+Concluí com sucesso o curso de Gestão por Processos na Cruzeiro do Sul Virtual, onde adquiri conhecimentos sólidos sobre análise, 
+otimização e gestão de processos empresariais. 
+Este curso me proporcionou uma visão estratégica e integrada dos processos organizacionais, habilidades que complementam minha formação
+técnica e são essenciais para o desenvolvimento de soluções eficientes no setor de tecnologia.
 
- - **Gestão de processos**: melhoria contínua, análise de performance organizacional.
- - **Certificação**: Conclusão do curso com certificação reconhecida.
+  **Certificação**: Conclusão do curso com certificação reconhecida.
 
  ### **Bootcamp Generation Brasil**
   No bootcamp da Generation Brasil, me familiarizei com diversas tecnologias e ferramentas, 
