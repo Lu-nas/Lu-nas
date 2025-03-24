@@ -1,21 +1,21 @@
  👋 Oi, Sou a Luana Silva
  
 💻 Desenvolvedora de Software em Formação | Java | Python | Full Stack,
-Atualmente em transição de carreira para a área de Tecnologia, sou uma profissional dedicada 
+atualmente em transição de carreira para a área de Tecnologia, sou uma profissional dedicada 
 e apaixonada por resolver problemas através da programação.
 
-🎓 Estou no inicio da graduação em Engenharia de Software pela Cruzeiro do Sul Virtual, ampliando minha base teórica e prática em 
+🎓 Estou no inicio da graduação em Engenharia de Software pela faculdade Cruzeiro do Sul Virtual, ampliando minha base teórica e prática em 
   tecnologia para expandir minhas habilidades técnicas.
 
- 📚 Concluí o bootcamp da Generation Brasil no último ano, onde aprimorei minhas habilidades como Desenvolvedora Full Stack Java, 
+ 📚 Concluí o bootcamp da Generation Brasil no último ano, onde aprimorei habilidades como Desenvolvedora Full Stack Java, 
   adquirindo experiência com Spring Boot, React, MySQL e metodologias ágeis.
   
-🎯 Participei do programa TrendsIT, onde aprendi sobre desenvolvimento ágil, colaboração em equipe e trabalhei em projetos reais.
+🎯 Participei do programa TrendsIT, aprendi sobre desenvolvimento ágil, colaboração em equipe e trabalhei em projetos reais.
   
 🚀 Busco uma oportunidade para continuar aplicar meus conhecimentos, crescer profissionalmente e contribuir para projetos inovadores.
 
-⚡ Sou movida pela vontade de aprender, enfrentar desafios e me aventurar em diferentes atividades na áreas da tecnologia. Meu objetivo é,
-  atuar no setor de fintech, unindo programação e inovação para impactar positivamente o mundo.
+⚡ Sou movida pela vontade de aprender, enfrentar desafios e me aventurar em diferentes atividades na área da tecnologia. Meu objetivo é 
+atuar no setor de fintech, integrando programação para gerar um impacto positivo no ambiente.
 
   
 ## Experiência e Conquistas
