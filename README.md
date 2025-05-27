@@ -1,57 +1,52 @@
  👋 Oi, Sou a Luana Silva
  
-💻 Desenvolvedora de Software em Formação | Java | Python | Full Stack,
-atualmente em transição de carreira para a área de Tecnologia, sou uma profissional dedicada 
-e apaixonada por resolver problemas através da programação.
+Desenvolvedora de Software em Formação | Java | Python | Full Stack, sou uma profissional dedicada 
+e gosto de resolver problemas através da programação.
 
-🎓 Estou no inicio da graduação em Engenharia de Software pela faculdade Cruzeiro do Sul Virtual, ampliando minha base teórica e prática em 
-  tecnologia para expandir minhas habilidades técnicas.
+🎓 Estou no inicio da graduação em Engenharia de Software pela faculdade Cruzeiro do Sul Virtual.
 
- 📚 Concluí o bootcamp da Generation Brasil no último ano, onde aprimorei habilidades como Desenvolvedora Full Stack Java, 
-  adquirindo experiência com Spring Boot, React, MySQL e metodologias ágeis.
+💻 Concluí o bootcamp da Generation Brasil no último ano, onde aprimorei habilidades como Desenvolvedora Full Stack Java, 
+  adquiri experiência com Spring Boot, React, MySQL e metodologias ágeis.
   
-🎯 Participei do programa TrendsIT, aprendi sobre desenvolvimento ágil, colaboração em equipe e trabalhei em projetos reais.
+🎯 Participei do programa TrendsIT, para um desenvolvimento ágil, e poder colaborar em projetos reais.
   
-🚀 Busco uma oportunidade para continuar aplicar meus conhecimentos, crescer profissionalmente e contribuir para projetos inovadores.
+ Busco uma oportunidade para um conhecimento mais solido, crescer profissionalmente e contribuir para novos projetos.
 
-⚡ Sou movida pela vontade de aprender, enfrentar desafios e me aventurar em diferentes atividades na área da tecnologia. Meu objetivo é 
-atuar no setor de fintech, integrando programação para gerar um impacto positivo no ambiente.
+Sou movida pela vontade de aprender e me aventurar em diferentes atividades na área da tecnologia; Meu objetivo é 
+atuar no setor de fintech, integrando programação, gerando impactos positivos.
 
   
 ## Experiência e Conquistas
 
  ### **Gestão por Processos- Cruzeiro do Sul Virtual**
-Concluí com sucesso o curso de Gestão por Processos na Cruzeiro do Sul Virtual, onde adquiri conhecimentos sólidos sobre análise, 
-otimização e gestão de processos empresariais. 
-Este curso me proporcionou uma visão estratégica e integrada dos processos organizacionais, habilidades que complementam minha formação
-técnica e são essenciais para o desenvolvimento de soluções eficientes no setor de tecnologia.
+Concluí com sucesso o curso de Gestão por Processos e adquiri conhecimentos sobre análise, otimização e gestão de processos empresariais. 
+agora tenho uma visão mais estratégica e integrada nos processos organizacionais.
 
   **Certificação**: Conclusão do curso com certificação reconhecida.
 
  ### **Bootcamp Generation Brasil**
-  No bootcamp da Generation Brasil, me familiarizei com diversas tecnologias e ferramentas, 
-  ampliando minha experiência no desenvolvimento Full Stack.
+  No bootcamp da Generation Brasil, amplie minha experiência no desenvolvimento Full Stack.
   - **Linguagen**: Java
   - **Frameworks**: Spring Boot
   - **Banco de Dados**: MySQL
   - *Ferramentas**: Git, GitHub, Jira,
 
  ### **TrendsIT**
-  No programa TrendsIT, aprendi sobre metodologias ágeis, trabalhei em projetos práticos e desenvolvi habilidades 
-  de integração entre backend e frontend.
+  No programa TrendsIT, vimos metodologias ágeis, projetos práticos e habilidades de integração entre backend e frontend.
    - **Desafios Enfrentados**: Integração e implementação de APIs externas .
-   - **Certificação**: Conclusão do Programa TrendsIT e  Certificação em Metodologias Ágeis.
+   - **Certificação**: Conclusão do Programa e Certificação em Metodologias Ágeis.
 
   
- ## 🌱 Projetos Recentes
-  
+ ### 🧠  " Mais importante que só fazer funcionar é entender como tudo funciona."
+ 
+ ## Projetos Recentes 
+   ###  [Gerenciador_de_tarefas](https://github.com/Lu-nas/Gerenciador_de_tarefas.git) 😄
+ **Objetivo**: apoiar meu aprendizado de programação em Python, especialmente no uso de listas,
+ manipulação de arquivos JSON e interação com o usuário via terminal
+ 
  ### [E-Conectar](https://github.com/EconectarGen]) 
  **Objetivo**: Sistema de e-commerce urbano que conecta prestadores de serviços a solicitantes, 
 incentivando a economia sustentável e o desenvolvimento urbano responsável. (Em produção)
-
- ###  [personal_Blog](https://github.com/Lu-nas/Personal_Blog) 😄
- **Objetivo**: plataforma intuitiva para usuários compartilharem suas experiências através 
-de posts personalizados de forma interativa e criativa. (Em melhoria)
 
  ###  [Teck_Gamer](https://github.com/Lu-nas/ProjetoLoja_teckGamer) 🎮
 - **Descrição**: Loja ficticia de games não violentos para crianças.
