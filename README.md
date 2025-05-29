@@ -8,12 +8,13 @@ e gosto de resolver problemas através da programação.
 💻 Concluí o bootcamp da Generation Brasil no último ano, onde aprimorei habilidades como Desenvolvedora Full Stack Java, 
   adquiri experiência com Spring Boot, React, MySQL e metodologias ágeis.
   
-🎯 Participei do programa TrendsIT, para um desenvolvimento ágil, e poder colaborar em projetos reais.
-  
- Busco uma oportunidade de expandir meus conhecimentos, crescer profissionalmente e contribuir ativamente para novos projetos.
+🎯 Participei do programa TrendsIT, para um desenvolvimento ágil, e colaborar em projetos reais.
 
-Sou movida pela vontade de aprender e me aventurar em diferentes atividades na área da tecnologia; Meu objetivo é 
-atuar no setor de fintech, integrando programação, gerando impactos positivos.
+Acredito que a tecnologia pode transformar realidades. Por isso, sigo explorando com coragem e dedicação seus caminhos.
+Estou em busca de oportunidades que me permitam aprender, crescer profissionalmente e contribuir de forma significativa
+seja para atuar no universo das fintech, ou em outras áreas da tecnologia, unindo código, criatividade e impacto social.
+
+
 
   
 ## Experiência e Conquistas
