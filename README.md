@@ -10,7 +10,7 @@ e gosto de resolver problemas através da programação.
   
 🎯 Participei do programa TrendsIT, para um desenvolvimento ágil, e poder colaborar em projetos reais.
   
- Busco uma oportunidade para um conhecimento mais solido, crescer profissionalmente e contribuir para novos projetos.
+ Busco uma oportunidade de expandir meus conhecimentos, crescer profissionalmente e contribuir ativamente para novos projetos.
 
 Sou movida pela vontade de aprender e me aventurar em diferentes atividades na área da tecnologia; Meu objetivo é 
 atuar no setor de fintech, integrando programação, gerando impactos positivos.
