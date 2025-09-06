@@ -61,8 +61,8 @@ incentivando a economia sustentável e o desenvolvimento urbano responsável. (E
 - **Tecnologias**: Java, Spring Boot, MySQL,
 - **frontend**: HTML,CSS3.
 
- ### 2. JcDias Atelier 🤝 
- @HenriquedSS1912
+ ### 2. [Jcdias Atelier](https://jcdiasatelier.com.br/) 🤝 
+ @HenriquedSS1912(https://github.com/HenriquedSS1912)
 - **Descrição**: Landing page para uma loja de confecção e conserto de roupas moda praia plus size e fitness, 
  criando peças únicas e personalizadas. (Em produção)
  - **Tecnologias**: HTML, CSS, JavaScript, Design Responsivo, SEO.
