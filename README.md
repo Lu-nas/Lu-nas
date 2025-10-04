@@ -1,6 +1,6 @@
  👋 Oi, Sou a Luana Silva
  
-Desenvolvedora de Software em Formação | Java | Python | Full Stack, sou uma profissional dedicada 
+Desenvolvedora de Software em Formação | Java | Python | sou uma profissional dedicada 
 e gosto de resolver problemas através da programação.
 
 🎓 Estou no inicio da graduação em Engenharia de Software pela faculdade Cruzeiro do Sul Virtual.
