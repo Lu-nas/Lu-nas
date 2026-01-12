@@ -1,90 +1,87 @@
  👋 Oi, Sou a Luana Silva
  
-Desenvolvedora de Software em Formação | Java | Python | sou uma profissional dedicada 
-e gosto de resolver problemas através da programação.
+🎓 **Estudante de Engenharia de Software** — Cruzeiro do Sul Virtual 2ªSemestre   
+💻 Desenvolvedora de Software em Formação 
 
-🎓 Estou no inicio da graduação em Engenharia de Software pela faculdade Cruzeiro do Sul Virtual.
+☕ **Backend**: Java | Spring Boot | MySQL  
+🐍 **Python**: lógica e automação  
+🌐 **Frontend**: HTML | CSS | JavaScript | React  
 
-💻 Concluí o bootcamp da Generation Brasil no último ano, onde aprimorei habilidades como Desenvolvedora Full Stack Java, 
-  adquiri experiência com Spring Boot, React, MySQL e metodologias ágeis.
-  
-🎯 Participei do programa TrendsIT, para um desenvolvimento ágil, e colaborar em projetos reais.
-
-Acredito que a tecnologia pode transformar realidades. Por isso, sigo explorando com coragem e dedicação seus caminhos.
-Estou em busca de oportunidades que me permitam aprender, crescer profissionalmente e contribuir de forma significativa
-seja para atuar no universo das fintech, ou em outras áreas da tecnologia, unindo código, criatividade e impacto social.
+🔎 Busco oportunidades como  **Desenvolvedora Júnior Full Stack ou Backend**, com interesse em projetos que unam tecnologia, eficiência e impacto social.
 
 
+## Experiência e Formação Complementar
 
-  
-## Experiência e Conquistas
+ ### Gestão por Processos- Cruzeiro do Sul Virtual
+- Análise, mapeamento e otimização de processos
+- BPMN, PDCA e Lean  
+- Certificação concluída
 
- ### **Gestão por Processos- Cruzeiro do Sul Virtual**
-Concluí com sucesso o curso de Gestão por Processos e adquiri conhecimentos sobre análise, otimização e gestão de processos empresariais. 
-agora tenho uma visão mais estratégica e integrada nos processos organizacionais.
-
-  **Certificação**: Conclusão do curso com certificação reconhecida.
-
- ### **Bootcamp Generation Brasil**
-  No bootcamp da Generation Brasil, amplie minha experiência no desenvolvimento Full Stack.
-  - **Linguagen**: Java
+ ### Bootcamp Generation Brasil
+  Formação intensiva em Desenvolvimento Full Stack.
+  - **Linguagens**: Java
   - **Frameworks**: Spring Boot
   - **Banco de Dados**: MySQL
-  - *Ferramentas**: Git, GitHub, Jira,
+  - **Ferramentas**: Git, GitHub, Jira,
+  - **Metodologias**: Scrum
 
- ### **TrendsIT**
-  No programa TrendsIT, vimos metodologias ágeis, projetos práticos e habilidades de integração entre backend e frontend.
-   - **Desafios Enfrentados**: Integração e implementação de APIs externas .
-   - **Certificação**: Conclusão do Programa e Certificação em Metodologias Ágeis.
-
+ ### TrendsIT / Workover Academy
+  programa com foco em projetos práticos e metodologias ágeis:
+- Integração entre backend e frontend  
+- Consumo e implementação de APIs  
+- Certificação em Metodologias Ágeis
   
- ### 🧠  " Mais importante que só fazer funcionar é entender como tudo funciona."
+ > _“Mais importante do que fazer funcionar é entender como tudo funciona.”_
  
- ## Projetos Recentes 
-   ###  [Gerenciador_de_tarefas](https://github.com/Lu-nas/Gerenciador_de_tarefas.git) 😄
- **Objetivo**: apoiar meu aprendizado de programação em Python, especialmente no uso de listas,
- manipulação de arquivos JSON e interação com o usuário via terminal
- 
- ### [E-Conectar](https://github.com/EconectarGen]) 
- **Objetivo**: Sistema de e-commerce urbano que conecta prestadores de serviços a solicitantes, 
-incentivando a economia sustentável e o desenvolvimento urbano responsável. (Em produção)
 
- ###  [Teck_Gamer](https://github.com/Lu-nas/ProjetoLoja_teckGamer) 🎮
-- **Descrição**: Loja ficticia de games não violentos para crianças.
-- **Tecnologias**: Java, Spring Boot, MySQL.
+ ## Projetos em Destaque
 
-  ## Projetos Colaborativos
+ ### 🔗 E-Conectar
+Plataforma Full Stack para serviços urbanos (ODS 11).  
+- **Stack**: React, Java, Spring Boot  
+- **Atuação**: Desenvolvimento Full Stack  
+🔗 https://github.com/Lu-nas/Econectar  
 
- ### 1. Econectar 🌍 🤝 
-@DunkArt08, @eduardowada, @Paola Victória, @EdiporTorres.
-- **Descrição**: Conecta pessoas e serviços, incentivando uma economia sustentável.
-- **Tecnologias**: Java, Spring Boot, MySQL,
-- **frontend**: HTML,CSS3.
+ ### 🐍 Gerenciador de Tarefas (Python)
+Projeto focado em lógica de programação, manipulação de dados, listas e JSON.
+- **Stack**: Python
+🔗 https://github.com/Lu-nas/Gerenciador_de_tarefas
 
- ### 2. [Jcdias Atelier](https://jcdiasatelier.com.br/) 🤝 
- @HenriquedSS1912(https://github.com/HenriquedSS1912)
-- **Descrição**: Landing page para uma loja de confecção e conserto de roupas moda praia plus size e fitness, 
- criando peças únicas e personalizadas. (Em produção)
- - **Tecnologias**: HTML, CSS, JavaScript, Design Responsivo, SEO.
+ ### 🎮 TeckGamer
+Loja fictícia de games.
+- **Stack**: Java, Spring Boot, MySQL  
+🔗 https://github.com/Lu-nas/ProjetoLoja_teckGamer
+
+---
+  ##  🤝 Projetos Colaborativos
+
+### 👗 Jcdias Atelier 
+ (@HenriquedSS1912)
+-  Landing page para ateliê de moda praia plus size e fitness.
+ - - **Stack**: HTML, CSS, JavaScript, Design Responsivo, SEO  
+🔗 https://jcdiasatelier.com.br
+
+
+ ###  🌍 Econectar   
+  Equipe: @DunkArt08, @eduardowada, @Paola Victória, @EdiporTorres.
   
-## Contatos
-- 📫  <a href = "mailto:Luanasilva.ss9497@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/luana-silva-b3a01a270" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+Projeto Full Stack desenvolvido em equipe multidisciplinar.
+- **Minha contribuição**: backend com Java e Spring Boot
+- - **Stack**: Java, Spring Boot, MySQL, HTML, CSS
 
-  <div>
-   <a href="https://github.com/lu-nas">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lu-nas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu-nas&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-</div>
 
-- Obrigado por visitar meu perfil! Estou animada para aprender e colaborar em projetos incríveis. Vamos nos conectar! 😊
+## Contato
+<a href="mailto:luanasilva.ss9497@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/luana-silva-b3a01a270">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+---
+
+Obrigado por visitar meu perfil!  
+Estou aberta a aprender, colaborar e crescer como desenvolvedora.
 
 <!---
 Lu-nas/Lu-nas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
