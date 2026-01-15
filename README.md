@@ -40,17 +40,19 @@
 Plataforma Full Stack para serviços urbanos (ODS 11).  
 - **Stack**: React, Java, Spring Boot  
 - **Atuação**: Desenvolvimento Full Stack  
-🔗 https://github.com/Lu-nas/Econectar  
+🔗 https://github.com/Lu-nas/Econectar
+
+ ### 🎮 TeckGamer
+Loja fictícia de games.
+- **Stack**: Java, Spring Boot, MySQL  
+🔗https://github.com/Lu-nas/TeckGamer_api.git
 
  ### 🐍 Gerenciador de Tarefas (Python)
 Projeto focado em lógica de programação, manipulação de dados, listas e JSON.
 - **Stack**: Python
 🔗 https://github.com/Lu-nas/Gerenciador_de_tarefas
 
- ### 🎮 TeckGamer
-Loja fictícia de games.
-- **Stack**: Java, Spring Boot, MySQL  
-🔗 https://github.com/Lu-nas/ProjetoLoja_teckGamer
+
 
 ---
   ##  🤝 Projetos Colaborativos
