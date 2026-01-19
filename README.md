@@ -1,6 +1,6 @@
  👋 Oi, Sou a Luana Silva
  
-🎓 **Estudante de Engenharia de Software** — Cruzeiro do Sul Virtual 2ªSemestre   
+🎓 **Estudante de Engenharia de Software** — Cruzeiro do Sul Virtual  3ªSemestre   
 💻 Desenvolvedora de Software em Formação 
 
 ☕ **Backend**: Java | Spring Boot | MySQL  
