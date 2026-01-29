@@ -57,7 +57,7 @@ Projeto focado em lógica de programação, manipulação de dados, listas e JSO
 ---
   ##  🤝 Projetos Colaborativos
 
-### 👗 Jcdias Atelier 
+### 👗 Jc dias Atelier 
  (@HenriquedSS1912)
 -  Landing page para ateliê de moda praia plus size e fitness.
  - - **Stack**: HTML, CSS, JavaScript, Design Responsivo, SEO  
