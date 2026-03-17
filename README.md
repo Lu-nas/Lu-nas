@@ -1,13 +1,13 @@
  👋 Oi, Sou a Luana Silva
  
-🎓 **Estudante de Engenharia de Software** — Cruzeiro do Sul Virtual  3ªSemestre   
+🎓 **Graduando em  Engenharia de Software** — Cruzeiro do Sul Virtual  4ªSemestre   
 💻 Desenvolvedora de Software em Formação 
 
 ☕ **Backend**: Java | Spring Boot | MySQL  
 🐍 **Python**: lógica e automação  
 🌐 **Frontend**: HTML | CSS | JavaScript | React  
 
-🔎 Busco oportunidades como  **Desenvolvedora Júnior Full Stack ou Backend**, com interesse em projetos que unam tecnologia, eficiência e impacto social.
+🔎 Busco oportunidades como  **Desenvolvedora Júnior Backend**, com interesse em projetos que unam tecnologia, eficiência e impacto social.
 
 
 ## Experiência e Formação Complementar
@@ -30,8 +30,6 @@
 - Integração entre backend e frontend  
 - Consumo e implementação de APIs  
 - Certificação em Metodologias Ágeis
-  
- > _“Mais importante do que fazer funcionar é entender como tudo funciona.”_
  
 
  ## Projetos em Destaque
@@ -51,8 +49,6 @@ Loja fictícia de games.
 Projeto focado em lógica de programação, manipulação de dados, listas e JSON.
 - **Stack**: Python
 🔗 https://github.com/Lu-nas/Gerenciador_de_tarefas
-
-
 
 ---
   ##  🤝 Projetos Colaborativos
